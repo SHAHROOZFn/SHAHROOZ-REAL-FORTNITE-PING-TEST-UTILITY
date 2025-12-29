@@ -7,7 +7,7 @@
 - Administrator Permissions
 
 
-#  How to Use❓
+# ❓ How to Use
 
 1. Go to [Utility Page](https://github.com/SHAHROOZFn/SHAHROOZ-REAL-FORTNITE-PING-TEST-UTILITY)
 2. Download **"SHAHROOZ REAL FORTNITE PING TEST UTILITY.exe"**
@@ -15,3 +15,6 @@
 4. Press the Number Of Your Region And Done
 5. The Ms Is Your Ping <img width="857" height="559" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9045ffc4-2253-4dac-86d7-4d31beeffb61" />
 
+# 🚨 The file is Full safe 
+
+ The File Is full Save And Is Just A ping Tester And is not capable of harming your computer.
