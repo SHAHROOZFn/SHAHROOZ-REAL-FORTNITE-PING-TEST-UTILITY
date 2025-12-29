@@ -7,6 +7,8 @@
 - Administrator Permissions
 
 
+#  How to Use❓
+
 1. Go to [Utility Page](https://github.com/SHAHROOZFn/SHAHROOZ-REAL-FORTNITE-PING-TEST-UTILITY)
 2. Download **"SHAHROOZ REAL FORTNITE PING TEST UTILITY.exe"**
 3. Run "SHAHROOZ REAL FORTNITE PING TEST UTILITY.exe" as Administrator
