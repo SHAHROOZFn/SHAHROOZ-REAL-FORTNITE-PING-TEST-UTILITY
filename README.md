@@ -18,3 +18,6 @@
 # 🚨 The file is Full safe 
 
  The File Is full Save And Is Just A ping Tester And is not capable of harming your computer.
+
+🤝 Our Community
+[Discord](https://discord.gg/s4W4G9EqZZ )
