@@ -19,7 +19,7 @@
 
  The File Is full Save And Is Just A ping Tester And is not capable of harming your computer.
 
-🤝 Our Community
+# 🤝 Our Communities
 
 - [Discord](https://discord.gg/s4W4G9EqZZ )
 - [Twitter (X)](https://x.com/SHAHROOZfv/)
