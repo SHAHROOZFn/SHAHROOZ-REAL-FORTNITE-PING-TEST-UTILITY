@@ -21,7 +21,7 @@
 
 🤝 Our Community
 
-[Discord](https://discord.gg/s4W4G9EqZZ )
-[Twitter (X)](https://x.com/SHAHROOZfv/)
-[Instagram](https://www.instagram.com/shahrooz__fn/)
-[Twitch](https://www.twitch.tv/shahrooz__)
+- [Discord](https://discord.gg/s4W4G9EqZZ )
+- [Twitter (X)](https://x.com/SHAHROOZfv/)
+- [Instagram](https://www.instagram.com/shahrooz__fn/)
+- [Twitch](https://www.twitch.tv/shahrooz__)
